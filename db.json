@@ -1,4 +1,4 @@
-[
+{"result":[
     {"id": 4, "name": "APAC"},
     {"id": 5, "name": "CORP - Business Operations Applications"},
     {"id": 6, "name": "CORP - Corporate Applications"},
@@ -8,3 +8,4 @@
     {"id": 3, "name": "LAR"},
     {"id": 2, "name": "NAR"}
 ]
+}
